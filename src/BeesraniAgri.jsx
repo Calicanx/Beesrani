@@ -395,9 +395,7 @@ export default function BeesraniAgri () {
         </div>
       </div>
 
-      <div className="_2023-beesrani-agritechnology-all-rights-reserved">
-        © 2023 Beesrani Agritechnology. All rights reserved.
-      </div>
+
 
       <div className="frame-194">
         <img className="rectangle-722" src={logo} />
@@ -437,6 +435,9 @@ export default function BeesraniAgri () {
 
           <img className="rectangle-94" src={linkedin} />
         </div>
+      </div>
+      <div className="_2023-beesrani-agritechnology-all-rights-reserved">
+        © 2023 Beesrani Agritechnology. All rights reserved.
       </div>
     </div>
   );
