@@ -1,0 +1,2069 @@
+body{
+  margin: 0;
+}
+.beesrani-agri,
+.beesrani-agri * {
+  box-sizing: border-box;
+}
+.beesrani-agri {
+  background: #ffffff;
+  width: 100%;
+  height: 4880px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-69 {
+  width: 100%;
+  height: 720px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.our-focus-is-on-improving-agricultural-practices-increasing-productivity-and-enhancing-farmers-livelihoods {
+  color: #ffffff;
+  padding: 0 50px;
+  text-align: center;
+  font: 700 72px "Inter", sans-serif;
+  position: absolute;
+  left: 0;
+  top: 200px;
+  width: 100%;
+}
+.frame-200 {
+  display: flex;
+  flex-direction: row;
+  gap: 70px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 131px;
+  top: 790px;
+}
+.rectangle-71 {
+  flex-shrink: 0;
+  width: 462px;
+  height: 441px;
+  position: relative;
+}
+.beesrani-agritechnology-incorporates-machine-learning-and-ai-to-continuously-develop-advanced-solutions-as-a-result-we-increase-roi-promote-food-sustainability-goals-ensure-full-traceability-of-crops-our-products-optimize-the-yields-and-productivity-of-smallholder-farmers-therefore-increasing-the-quality-and-quantity-of-food-supply-available-for-consumption {
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: relative;
+  width: 504px;
+  height: 294px;
+}
+.beesrani-agritechnology-incorporates-machine-learning-and-ai-to-continuously-develop-advanced-solutions-as-a-result-we-increase-roi-promote-food-sustainability-goals-ensure-full-traceability-of-crops-our-products-optimize-the-yields-and-productivity-of-smallholder-farmers-therefore-increasing-the-quality-and-quantity-of-food-supply-available-for-consumption-span {
+  color: #000000;
+  font: 400 24px "Inter", sans-serif;
+}
+.beesrani-agritechnology-incorporates-machine-learning-and-ai-to-continuously-develop-advanced-solutions-as-a-result-we-increase-roi-promote-food-sustainability-goals-ensure-full-traceability-of-crops-our-products-optimize-the-yields-and-productivity-of-smallholder-farmers-therefore-increasing-the-quality-and-quantity-of-food-supply-available-for-consumption-span2 {
+  color: #138a00;
+  font: 400 24px "Inter", sans-serif;
+}
+.beesrani-agritechnology-incorporates-machine-learning-and-ai-to-continuously-develop-advanced-solutions-as-a-result-we-increase-roi-promote-food-sustainability-goals-ensure-full-traceability-of-crops-our-products-optimize-the-yields-and-productivity-of-smallholder-farmers-therefore-increasing-the-quality-and-quantity-of-food-supply-available-for-consumption-span3 {
+  color: #000000;
+  font: 400 24px "Inter", sans-serif;
+}
+.tailor-made-services {
+  color: #000000;
+  text-align: left;
+  font: 600 38px "Inter", sans-serif;
+  position: absolute;
+  left: 0;
+  top: 1266px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.about-us {
+  color: #000000;
+  text-align: left;
+  font: 600 38px "Inter", sans-serif;
+  position: absolute;
+  left: 0;
+  top: 1807px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.frame-198 {
+  display: flex;
+  flex-direction: row;
+  gap: 70px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  left: 0;
+  top: 1347px;
+  width: 100%;
+}
+.frame-122 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-72 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  flex-shrink: 0;
+  width: 300px;
+  height: 200px;
+  position: relative;
+}
+.frame-121 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: absolute;
+  left: 49px;
+  top: 22px;
+}
+.rectangle-75 {
+  flex-shrink: 0;
+  width: 50px;
+  height: 50px;
+  position: relative;
+}
+.weather-forecast {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.get-daily-weather-updates-and-major-alerts {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 197px;
+}
+.frame-123 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.farm-tracking {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.track-farm-from-seed-selection-to-harvesting {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 197px;
+}
+.daily-monitoring {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.daily-monitoring-to-identify-crop-damage {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 197px;
+}
+.frame-199 {
+  display: flex;
+  flex-direction: row;
+  gap: 70px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  left: 0;
+  top: 1572px;
+  width: 100%;
+}
+.expert-solution {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.precision-farming-tools-such-as-soil-monitoring-etc {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 197px;
+}
+.agri-knowledge {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.get-updates-on-latest-agriculture-knowledge {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 197px;
+}
+.agri-shop {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.one-stop-shop-for-agriculture-products-with-delivery {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 197px;
+}
+.frame-127 {
+  display: flex;
+  flex-direction: row;
+  gap: 70px;
+  align-items: center;
+  justify-content: center;
+  width: 1097px;
+  position: absolute;
+  left: 131px;
+  top: 1888px;
+}
+.rectangle-76 {
+  flex-shrink: 0;
+  width: 40%;
+  height: 280px;
+  position: relative;
+}
+.frame-126 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 617px;
+  position: relative;
+}
+.problem {
+  color: #000000;
+  text-align: left;
+  font: 600 32px "Inter", sans-serif;
+  position: relative;
+}
+.small-holder-farms-need-agritech-for-advancement {
+  color: #138a00;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+  width: 100%;
+  height: 62px;
+}
+.smallholder-farmers-account-for-70-of-the-farmers-in-kenya-more-importantly-they-produce-90-of-the-food-consumed-within-the-country-the-nature-of-smallholder-farming-is-too-complex-for-western-technology-to-have-meaningful-impact-in-kenya-small-fragmented-farms-with-farmers-living-on-less-than-2-a-day-is-not-a-niche-attractive-to-foreign-investors-or-solutions-provider-kenyan-problems-need-kenyan-solutions-hence-the-birth-of-beesrani {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 617px;
+  height: 220px;
+}
+.frame-129 {
+  display: flex;
+  flex-direction: row;
+  gap: 70px;
+  align-items: center;
+  justify-content: center;
+  width: 1104px;
+  position: absolute;
+  left: 131px;
+  top: 2254px;
+}
+.frame-128 {
+  display: flex;
+  flex-direction: row;
+  gap: 70px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 623px;
+  position: relative;
+}
+.frame-1262 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 630px;
+  height: 318px;
+  position: relative;
+}
+.solution {
+  color: #000000;
+  text-align: left;
+  font: 600 32px "Inter", sans-serif;
+  position: relative;
+}
+.give-a-man-a-fish-and-feed-him-for-a-day-teach-a-man-to-fish-and-feed-him-for-a-lifetime {
+  color: #138a00;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+  width: 110%;
+  height: 62px;
+}
+.we-empower-farmers-we-work-with-by-giving-them-access-to-tools-and-resources-used-by-farmers-in-more-advanced-countries-we-provide-farmers-with-highest-quality-inputs-available-such-as-seeds-fertilizers-pesticides-and-fungicides-they-can-also-access-monitoring-solutions-both-on-the-ground-and-digitally-these-tools-enable-the-farmers-to-implement-proper-farming-practices-and-on-average-double-the-national-yield-of-their-crop {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 617px;
+  height: 197px;
+}
+.our-combintion-of-solutions-ensure-we-are-able-to {
+  color: #000000;
+  text-align: left;
+  font: 500 32px "Inter", sans-serif;
+  position: absolute;
+  left: 131px;
+  top: 2607px;
+}
+.frame-135 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 2681px;
+  width: 100%;
+}
+.frame-133 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-130 {
+  background: #2e2e2e;
+  padding: 25px 37px 25px 37px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 300px;
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+}
+.identify-yield-threats-at-any-point-during-the-growing-or-harvest-season {
+  color: #ffffff;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 219px;
+}
+.frame-131 {
+  background: #e9e9e9;
+  padding: 17px 37px 17px 37px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 300px;
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+}
+.provide-surface-water-detection {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 219px;
+}
+.frame-132 {
+  background: #898989;
+  padding: 45px 15px 45px 15px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 300px;
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+}
+.monitor-nitrogen-levels-in-the-soil {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 219px;
+}
+.frame-134 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1302 {
+  background: #d9d9d9;
+  padding: 25px 37px 25px 37px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 300px;
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+}
+.minimise-management-or-human-error-in-diagnosing-crop-issues {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 219px;
+}
+.frame-1312 {
+  background: #3b6d23;
+  padding: 17px 37px 17px 37px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 300px;
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+}
+.predict-drought-and-famine {
+  color: #ffffff;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 219px;
+}
+.frame-1322 {
+  background: #e9e9e9;
+  padding: 45px 15px 45px 15px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 300px;
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+}
+.monitor-farm-input-demand {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 219px;
+}
+.frame-1303 {
+  background: #898989;
+  padding: 25px 37px 25px 37px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 300px;
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+}
+.monitor-vegetative-health {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 219px;
+}
+.analyze-soil-stability {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 219px;
+}
+.frame-1323 {
+  background: #2e2e2e;
+  padding: 45px 15px 45px 15px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 300px;
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+}
+.increase-yield {
+  color: #ffffff;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 219px;
+}
+.our-products {
+  color: #000000;
+  text-align: left;
+  font: 600 38px "Inter", sans-serif;
+  position: absolute;
+  left: 551px;
+  top: 3166px;
+}
+.frame-143 {
+  display: flex;
+  flex-direction: row;
+  gap: 70px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 204px;
+  top: 3247px;
+}
+.frame-142 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-136 {
+  flex-shrink: 0;
+  width: 431px;
+  height: 299px;
+  position: relative;
+}
+.rectangle-77 {
+  width: 431px;
+  height: 243px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-140 {
+  margin: -150px 0 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-79 {
+  background: rgba(24, 24, 24, 0.5);
+  flex-shrink: 0;
+  width: 342px;
+  height: 196px;
+  position: relative;
+}
+.frame-139 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: absolute;
+  left: 19px;
+  top: 13px;
+}
+.beesrani-analytics {
+  color: #ffffff;
+  text-align: left;
+  font: 500 20px "Inter", sans-serif;
+  position: relative;
+}
+.accurate-timely-information-to-support-farming-decisions-monitor-crop-growth-stage-crop-productivity-land-degradation-to-improve-yield {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+  width: 308px;
+  height: 85px;
+}
+.frame-138 {
+  background: #ffffff;
+  padding: 5px 0px 5px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 100px;
+  position: relative;
+  overflow: hidden;
+}
+.read-more {
+  color: #000000;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+}
+.frame-141 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 711px;
+  top: 3247px;
+}
+.beesrani-scout {
+  color: #ffffff;
+  text-align: left;
+  font: 500 20px "Inter", sans-serif;
+  position: relative;
+}
+.enables-users-to-survey-large-tracts-of-land-to-determine-which-farms-produce-the-highest-quality-of-selected-produce-using-tools-such-as-algorithms {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+  width: 308px;
+  height: 85px;
+}
+.frame-1412 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 204px;
+  top: 3627px;
+}
+.beesrani-scan {
+  color: #ffffff;
+  text-align: left;
+  font: 500 20px "Inter", sans-serif;
+  position: relative;
+}
+.uses-a-mix-of-artificial-intelligence-ai-machine-learning-spectral-and-image-analytics-to-asses-properties-and-health-of-crops-and-mitigate-risks-and-diseases {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+  width: 308px;
+  height: 85px;
+}
+.frame-1422 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 705px;
+  top: 3627px;
+}
+.beesrani-market {
+  color: #ffffff;
+  text-align: left;
+  font: 500 20px "Inter", sans-serif;
+  position: relative;
+}
+.provide-an-online-platform-for-sale-of-agricultural-produce-to-the-larger-public-exportation-for-consumption-overseas-thereby-improving-farmers-income {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+  width: 308px;
+  height: 85px;
+}
+.contact-us {
+  color: #000000;
+  text-align: left;
+  font: 600 38px "Inter", sans-serif;
+  position: absolute;
+  left: 579px;
+  top: 4007px;
+}
+.frame-150 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 204px;
+  top: 4102px;
+  overflow: hidden;
+}
+.rectangle-80 {
+  background: #d9d9d9;
+  flex-shrink: 0;
+  width: 530px;
+  height: 696px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.frame-149 {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: absolute;
+  left: 58px;
+  top: 57px;
+}
+.frame-144 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.name {
+  color: #000000;
+  text-align: left;
+  font: 600 24px "Inter", sans-serif;
+  position: relative;
+}
+.rectangle-81 {
+  background: #2b2b2b;
+  border-radius: 2.5px;
+  flex-shrink: 0;
+  width: 414px;
+  height: 60px;
+  position: relative;
+  padding-left: 2.5%;
+  border: none;
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+}
+.frame-145 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.email {
+  color: #000000;
+  text-align: left;
+  font: 600 24px "Inter", sans-serif;
+  position: relative;
+}
+.frame-146 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.phone-numer {
+  color: #000000;
+  text-align: left;
+  font: 600 24px "Inter", sans-serif;
+  position: relative;
+}
+.frame-147 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.message {
+  color: #000000;
+  text-align: left;
+  font: 600 24px "Inter", sans-serif;
+  position: relative;
+}
+.rectangle-812 {
+  background: #2b2b2b;
+  border-radius: 2.5px;
+  flex-shrink: 0;
+  width: 414px;
+  height: 163px;
+  padding-left: 2.5%;
+  position: relative;
+  border: none;
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+}
+.frame-148 {
+  background: #ffffff;
+  border-radius: 5px;
+  padding: 14px 24px 14px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 139px;
+  height: 43px;
+  position: relative;
+  overflow: hidden;
+}
+.submit {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+._2023-beesrani-agritechnology-all-rights-reserved {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: absolute;
+  left: 456px;
+  top: 4833px;
+}
+.frame-194 {
+  padding: 0px 45px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  position: absolute;
+  left: 0px;
+  top: -5px;
+}
+.rectangle-722 {
+  flex-shrink: 0;
+  width: 155px;
+  height: 143px;
+  position: relative;
+}
+.rectangle-100 {
+  flex-shrink: 0;
+  width: 50px;
+  height: 50px;
+  position: relative;
+}
+.frame-197 {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 884px;
+  top: 4102px;
+  overflow: hidden;
+}
+.rectangle-723 {
+  flex-shrink: 0;
+  width: 231px;
+  height: 231px;
+  position: relative;
+}
+.frame-154 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-151 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.address {
+  color: #000000;
+  text-align: left;
+  font: 500 28px "Inter", sans-serif;
+  position: relative;
+}
+.nakuru-kenya {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: relative;
+}
+.frame-152 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.phone {
+  color: #000000;
+  text-align: left;
+  font: 500 28px "Inter", sans-serif;
+  position: relative;
+}
+._0796305577 {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: relative;
+}
+.frame-153 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.email2 {
+  color: #000000;
+  text-align: left;
+  font: 500 28px "Inter", sans-serif;
+  position: relative;
+}
+.beesrani-agri-gmail-com {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: relative;
+}
+.frame-182 {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-92 {
+  flex-shrink: 0;
+  width: 65px;
+  height: 65px;
+  position: relative;
+}
+.rectangle-93 {
+  flex-shrink: 0;
+  width: 65px;
+  height: 65px;
+  position: relative;
+}
+.rectangle-94 {
+  flex-shrink: 0;
+  width: 65px;
+  height: 65px;
+  position: relative;
+}
+@media (min-width:0px) and (max-width:640px){
+  .beesrani-agri,
+.beesrani-agri * {
+  box-sizing: border-box;
+}
+.beesrani-agri {
+  background: #ffffff;
+  width: 100%;
+  height: 8700px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-69 {
+  width: 100%;
+  height: 450px;
+  position: relative;
+  left: 0px;
+  top: 0px;
+}
+.frame-194 {
+  padding: 0px 25px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 106px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-100 {
+  flex-shrink: 0;
+  width: 50px;
+  height: 50px;
+  position: relative;
+}
+.our-focus-is-on-improving-agricultural-practices-increasing-productivity-and-enhancing-farmers-livelihoods {
+  color: #ffffff;
+  text-align: center;
+  font: 700 32px "Inter", sans-serif;
+  position: absolute;
+  left: 0;
+  top: 175px;
+  height: 100%;
+  width: 100%;
+  padding: 0;
+}
+.frame-200 {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  width: 100%;
+  left: 0px;
+  top: 0;
+}
+.rectangle-71 {
+  flex-shrink: 0;
+  width: 100%;
+  height: 0;
+  display: none;
+}
+.beesrani-agritechnology-incorporates-machine-learning-and-ai-to-continuously-develop-advanced-solutions-as-a-result-we-increase-roi-promote-food-sustainability-goals-ensure-full-traceability-of-crops-our-products-optimize-the-yields-and-productivity-of-smallholder-farmers-therefore-increasing-the-quality-and-quantity-of-food-supply-available-for-consumption {
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: relative;
+  top: 10px;
+  width: 90%;
+  height: 100%;
+}
+.beesrani-agritechnology-incorporates-machine-learning-and-ai-to-continuously-develop-advanced-solutions-as-a-result-we-increase-roi-promote-food-sustainability-goals-ensure-full-traceability-of-crops-our-products-optimize-the-yields-and-productivity-of-smallholder-farmers-therefore-increasing-the-quality-and-quantity-of-food-supply-available-for-consumption-span {
+  color: #000000;
+  font: 400 24px "Inter", sans-serif;
+}
+.beesrani-agritechnology-incorporates-machine-learning-and-ai-to-continuously-develop-advanced-solutions-as-a-result-we-increase-roi-promote-food-sustainability-goals-ensure-full-traceability-of-crops-our-products-optimize-the-yields-and-productivity-of-smallholder-farmers-therefore-increasing-the-quality-and-quantity-of-food-supply-available-for-consumption-span2 {
+  color: #138a00;
+  font: 400 24px "Inter", sans-serif;
+}
+.beesrani-agritechnology-incorporates-machine-learning-and-ai-to-continuously-develop-advanced-solutions-as-a-result-we-increase-roi-promote-food-sustainability-goals-ensure-full-traceability-of-crops-our-products-optimize-the-yields-and-productivity-of-smallholder-farmers-therefore-increasing-the-quality-and-quantity-of-food-supply-available-for-consumption-span3 {
+  color: #000000;
+  font: 400 24px "Inter", sans-serif;
+}
+.tailor-made-services {
+  color: #000000;
+  text-align: center;
+  font: 600 28px "Inter", sans-serif;
+  position: relative;
+  left: 0;
+  top: 25px;
+}
+.frame-198 {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  position: relative;
+  left: 0px;
+  top: 50px;
+}
+.frame-122 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-722 {
+  flex-shrink: 0;
+  width: 110px;
+  height: 105px;
+  position: relative;
+}
+.frame-121 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: absolute;
+  left: 49px;
+  top: 22px;
+}
+.rectangle-75 {
+  flex-shrink: 0;
+  width: 50px;
+  height: 50px;
+  position: relative;
+}
+.weather-forecast {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.get-daily-weather-updates-and-major-alerts {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 197px;
+}
+.frame-123 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.farm-tracking {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.track-farm-from-seed-selection-to-harvesting {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 197px;
+}
+.daily-monitoring {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.daily-monitoring-to-identify-crop-damage {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 197px;
+}
+.frame-199 {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  position: relative;
+  left: 0px;
+  top: 90px;
+}
+.expert-solution {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.precision-farming-tools-such-as-soil-monitoring-etc {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 197px;
+}
+.agri-knowledge {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.get-updates-on-latest-agriculture-knowledge {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 197px;
+}
+.agri-shop {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.one-stop-shop-for-agriculture-products-with-delivery {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 197px;
+}
+.about-us {
+  color: #000000;
+  text-align: left;
+  font: 600 28px "Inter", sans-serif;
+  position: relative;
+  left: 0;
+  top: 125px;
+}
+.frame-127 {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  position: relative;
+  left: 0px;
+  top: 150px;
+}
+.rectangle-76 {
+  flex-shrink: 0;
+  width: 100%;
+  height: 280px;
+  position: relative;
+  top: 0;
+}
+.frame-126 {
+  padding: 0px 0px 0px 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 100%;
+  height: 400px;
+  position: relative;
+}
+.problem {
+  color: #000000;
+  text-align: left;
+  font: 600 28px "Inter", sans-serif;
+  position: relative;
+}
+.small-holder-farms-need-agritech-for-advancement {
+  color: #138a00;
+  text-align: left;
+  font: 500 22px "Inter", sans-serif;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.smallholder-farmers-account-for-70-of-the-farmers-in-kenya-more-importantly-they-produce-90-of-the-food-consumed-within-the-country-the-nature-of-smallholder-farming-is-too-complex-for-western-technology-to-have-meaningful-impact-in-kenya-small-fragmented-farms-with-farmers-living-on-less-than-2-a-day-is-not-a-niche-attractive-to-foreign-investors-or-solutions-provider-kenyan-problems-need-kenyan-solutions-hence-the-birth-of-beesrani {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  top: 0;
+}
+.frame-129 {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: 815px;
+  position: relative;
+  left: 0px;
+  top: 200px;
+}
+.rectangle-762 {
+  flex-shrink: 0;
+  width: 100%;
+  height: 179px;
+  position: relative;
+}
+.frame-128 {
+  padding: 0px 0px 0px 25px;
+  display: flex;
+  flex-direction: row;
+  gap: 70px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 100%;
+  height: 425px;
+  position: relative;
+}
+.frame-1262 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 100%;
+  height: 425px;
+  position: relative;
+}
+.solution {
+  color: #000000;
+  text-align: left;
+  font: 600 28px "Inter", sans-serif;
+  position: relative;
+}
+.give-a-man-a-fish-and-feed-him-for-a-day-teach-a-man-to-fish-and-feed-him-for-a-lifetime {
+  color: #138a00;
+  text-align: left;
+  font: 500 22px "Inter", sans-serif;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.we-empower-farmers-we-work-with-by-giving-them-access-to-tools-and-resources-used-by-farmers-in-more-advanced-countries-we-provide-farmers-with-highest-quality-inputs-available-such-as-seeds-fertilizers-pesticides-and-fungicides-they-can-also-access-monitoring-solutions-both-on-the-ground-and-digitally-these-tools-enable-the-farmers-to-implement-proper-farming-practices-and-on-average-double-the-national-yield-of-their-crop {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.our-combintion-of-solutions-ensure-we-are-able-to {
+  color: #000000;
+  text-align: center;
+  font: 500 22px "Inter", sans-serif;
+  position: relative;
+  left: 0;
+  top: 150px;
+  width: 100%;
+}
+.frame-135 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  position: relative;
+  left: 0px;
+  top: 175px;
+}
+.frame-133 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-130 {
+  background: #2e2e2e;
+  padding: 25px 37px 25px 37px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 300px;
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+}
+.identify-yield-threats-at-any-point-during-the-growing-or-harvest-season {
+  color: #ffffff;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 219px;
+}
+.frame-131 {
+  background: #e9e9e9;
+  padding: 17px 37px 17px 37px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 300px;
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+}
+.provide-surface-water-detection {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 219px;
+}
+.frame-132 {
+  background: #898989;
+  padding: 45px 15px 45px 15px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 300px;
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+}
+.monitor-nitrogen-levels-in-the-soil {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 219px;
+}
+.frame-134 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1302 {
+  background: #d9d9d9;
+  padding: 25px 37px 25px 37px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 300px;
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+}
+.minimise-management-or-human-error-in-diagnosing-crop-issues {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 219px;
+}
+.frame-1312 {
+  background: #3b6d23;
+  padding: 17px 37px 17px 37px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 300px;
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+}
+.predict-drought-and-famine {
+  color: #ffffff;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 219px;
+}
+.frame-1322 {
+  background: #e9e9e9;
+  padding: 45px 15px 45px 15px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 300px;
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+}
+.monitor-farm-input-demand {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 219px;
+}
+.frame-1303 {
+  background: #898989;
+  padding: 25px 37px 25px 37px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 300px;
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+}
+.monitor-vegetative-health {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 219px;
+}
+.analyze-soil-stability {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 219px;
+}
+.frame-1323 {
+  background: #2e2e2e;
+  padding: 45px 15px 45px 15px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 300px;
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+}
+.increase-yield {
+  color: #ffffff;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 219px;
+}
+.our-products {
+  color: #000000;
+  text-align: center;
+  font: 600 28px "Inter", sans-serif;
+  position: relative;
+  left: 0;
+  top: 200px;
+}
+.frame-143 {
+  display: flex;
+  flex-direction: row;
+  gap: 70px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 100%;
+  position: relative;
+  left: 0px;
+  top: 225px;
+}
+.frame-142 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
+}
+.frame-136 {
+  flex-shrink: 0;
+  width: 100%;
+  height: 299px;
+  position: relative;
+}
+.rectangle-77 {
+  width: 100%;
+  height: 300px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-140 {
+  margin: -150px 0 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-79 {
+  background: rgba(24, 24, 24, 0.5);
+  flex-shrink: 0;
+  width: 300px;
+  height: 200px;
+  position: relative;
+  top: 50px;
+}
+.frame-139 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 300px;
+  position: absolute;
+  left: 0px;
+  top: 65px;
+}
+.beesrani-analytics {
+  color: #ffffff;
+  text-align: left;
+  font: 500 20px "Inter", sans-serif;
+  position: relative;
+}
+.accurate-timely-information-to-support-farming-decisions-monitor-crop-growth-stage-crop-productivity-land-degradation-to-improve-yield {
+  color: #ffffff;
+  text-align: center;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+  width: 295px;
+  height: 75px;
+}
+.frame-138 {
+  background: #ffffff;
+  padding: 5px 0px 5px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 100px;
+  position: relative;
+  overflow: hidden;
+}
+.read-more {
+  color: #000000;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+}
+.frame-141 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  height: 345px;
+  position: relative;
+  left: 0px;
+  top: 325px;
+  width: 100%;
+}
+.frame-1402 {
+  margin: -150px 0 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-792 {
+  background: rgba(24, 24, 24, 0.5);
+  flex-shrink: 0;
+  width: 300px;
+  height: 206px;
+  position: relative;
+}
+.frame-1392 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 300px;
+  position: absolute;
+  left: 0.5px;
+  top: 19px;
+}
+.beesrani-scout {
+  color: #ffffff;
+  text-align: left;
+  font: 500 20px "Inter", sans-serif;
+  position: relative;
+}
+.enables-users-to-survey-large-tracts-of-land-to-determine-which-farms-produce-the-highest-quality-of-selected-produce-using-tools-such-as-algorithms {
+  color: #ffffff;
+  text-align: center;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+  width: 280px;
+  height: 100px;
+}
+.frame-1412 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  position: relative;
+  left: 0px;
+  top: 425px;
+}
+.rectangle-793 {
+  background: rgba(24, 24, 24, 0.5);
+  flex-shrink: 0;
+  width: 300px;
+  height: 196px;
+  position: relative;
+}
+.beesrani-scan {
+  color: #ffffff;
+  text-align: left;
+  font: 500 20px "Inter", sans-serif;
+  position: relative;
+}
+.uses-a-mix-of-artificial-intelligence-ai-machine-learning-spectral-and-image-analytics-to-asses-properties-and-health-of-crops-and-mitigate-risks-and-diseases {
+  color: #ffffff;
+  text-align: center;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+  width: 280px;
+  height: 95px;
+}
+.frame-1422 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  left: 0px;
+  top: 525px;
+  width: 100%;
+}
+.rectangle-794 {
+  background: rgba(24, 24, 24, 0.5);
+  flex-shrink: 0;
+  width: 300px;
+  height: 209px;
+  position: relative;
+}
+.frame-1393 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 300px;
+  position: absolute;
+  left: 0px;
+  top: 19px;
+}
+.beesrani-market {
+  color: #ffffff;
+  text-align: left;
+  font: 500 20px "Inter", sans-serif;
+  position: relative;
+}
+.provide-an-online-platform-for-sale-of-agricultural-produce-to-the-larger-public-exportation-for-consumption-overseas-thereby-improving-farmers-income {
+  color: #ffffff;
+  text-align: center;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+  width: 280px;
+  height: 100px;
+}
+.contact-us {
+  color: #000000;
+  text-align: center;
+  font: 600 28px "Inter", sans-serif;
+  position: relative;
+  left: 0;
+  top: 615px;
+  width: 100%;
+}
+.frame-150 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  left: 0px;
+  top: 650px;
+  overflow: hidden;
+  width: 100%;
+}
+.frame-149 {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 300px;
+  position: absolute;
+  left: 0;
+  top: 25px;
+  width: 100%;
+}
+.frame-144 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.name {
+  color: #000000;
+  text-align: left;
+  font: 600 24px "Inter", sans-serif;
+  position: relative;
+}
+.rectangle-81 {
+  background: #2b2b2b;
+  border-radius: 2.5px;
+  flex-shrink: 0;
+  width: 280px;
+  height: 60px;
+  position: relative;
+}
+.frame-145 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.email {
+  color: #000000;
+  text-align: left;
+  font: 600 24px "Inter", sans-serif;
+  position: relative;
+}
+.frame-146 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.phone-numer {
+  color: #000000;
+  text-align: left;
+  font: 600 24px "Inter", sans-serif;
+  position: relative;
+}
+.frame-147 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.message {
+  color: #000000;
+  text-align: left;
+  font: 600 24px "Inter", sans-serif;
+  position: relative;
+}
+.rectangle-812 {
+  background: #2b2b2b;
+  border-radius: 2.5px;
+  flex-shrink: 0;
+  width: 280px;
+  height: 163px;
+  position: relative;
+}
+.frame-148 {
+  background: #ffffff;
+  border-radius: 5px;
+  padding: 14px 24px 14px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 139px;
+  height: 43px;
+  position: relative;
+  overflow: hidden;
+}
+.submit {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.frame-197 {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  left: 0;
+  top: 650px;
+  overflow: hidden;
+}
+.rectangle-723 {
+  flex-shrink: 0;
+  width: 231px;
+  height: 231px;
+  position: relative;
+  top:25px;
+}
+.frame-154 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  top: 0;
+}
+.frame-151 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.address {
+  color: #000000;
+  text-align: left;
+  font: 500 28px "Inter", sans-serif;
+  position: relative;
+}
+.nakuru-kenya {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: relative;
+}
+.frame-152 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.phone {
+  color: #000000;
+  text-align: left;
+  font: 500 28px "Inter", sans-serif;
+  position: relative;
+}
+._0796305577 {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: relative;
+}
+.frame-153 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.email2 {
+  color: #000000;
+  text-align: left;
+  font: 500 28px "Inter", sans-serif;
+  position: relative;
+}
+.beesrani-agri-gmail-com {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: relative;
+}
+.frame-182 {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-92 {
+  flex-shrink: 0;
+  width: 65px;
+  height: 65px;
+  position: relative;
+}
+.rectangle-93 {
+  flex-shrink: 0;
+  width: 65px;
+  height: 65px;
+  position: relative;
+}
+.rectangle-94 {
+  flex-shrink: 0;
+  width: 65px;
+  height: 65px;
+  position: relative;
+}
+._2023-beesrani-agritechnology-all-rights-reserved {
+  color: #000000;
+  text-align: center;
+  font: 400 18px "Inter", sans-serif;
+  position: relative;
+  left: 0px;
+  top: 675px;
+  width: 100%;
+}
+}
