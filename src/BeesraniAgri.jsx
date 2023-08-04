@@ -56,7 +56,6 @@ export default function BeesraniAgri () {
 
       <div className="tailor-made-services">Tailor made services</div>
 
-      <div className="about-us">About us</div>
 
       <div className="frame-198">
         <div className="frame-122">
@@ -145,6 +144,8 @@ export default function BeesraniAgri () {
           </div>
         </div>
       </div>
+      <div className="about-us">About us</div>
+
 
       <div className="frame-127">
         <img className="rectangle-76" src={tractor} />
