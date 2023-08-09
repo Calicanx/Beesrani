@@ -402,6 +402,11 @@ export default function BeesraniAgri () {
 
         <img className="rectangle-100" src={menu} />
       </div>
+      <div className='menu_tab'>
+        <p className='hh1'>Home</p>
+        <p>Shop</p>
+        <p>Contact</p>
+      </div>
 
       <div className="frame-197">
         <img className="rectangle-723" src={logo2} />
