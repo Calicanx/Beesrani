@@ -2,7 +2,7 @@ import emailjs from '@emailjs/browser';
 import { useRef } from 'react';
 
 import landingbg from './assets/roman-synkevych-fjj7lVpCxRE-unsplash.webp'
-import logo from './assets/1.png'
+import logo from './assets/1.webp'
 import menu from './assets/menu.webp'
 import woman from './assets/annie-spratt-QYcSeY7vuZM-unsplash(2).webp'
 import weather from './assets/cloud.png'
