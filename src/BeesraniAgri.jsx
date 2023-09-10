@@ -1,8 +1,11 @@
+import emailjs from '@emailjs/browser';
+import { useRef } from 'react';
+
 import landingbg from './assets/roman-synkevych-fjj7lVpCxRE-unsplash.webp'
-import logo from './assets/1.webp'
+import logo from './assets/1.png'
 import menu from './assets/menu.webp'
 import woman from './assets/annie-spratt-QYcSeY7vuZM-unsplash(2).webp'
-import weather from './assets/cloud.webp'
+import weather from './assets/cloud.png'
 import track from './assets/smart-farm.webp'
 import monitor from './assets/calendar (1).webp'
 import solution from './assets/consultation.webp'
@@ -13,7 +16,7 @@ import tractors from './assets/james-baltz-yihX4Rq-JsI-unsplash(2).webp'
 import scout from './assets/no-one-cares-l_5MJnbrmrs-unsplash.webp'
 import scan from './assets/raphael-rychetsky-li9JfUHQfOY-unsplash.webp'
 import market from './assets/anil-reddy-50yq68B-bqU-unsplash(2).webp'
-import logo2 from './assets/2.webp'
+import logo2 from './assets/2.png'
 import facebook from './assets/facebook.webp'
 import twitter from './assets/twitter.webp'
 import linkedin from './assets/whatsapp (1).webp'
@@ -21,7 +24,32 @@ import linkedin from './assets/whatsapp (1).webp'
 import "./BeesraniAgri.css";
 
 export default function BeesraniAgri () {
+
+  const form = useRef();
+
+
+  const submitForm = (e) => {
+    e.preventDefault();
+    emailjs
+      .sendForm(
+        import.meta.env.VITE_SERVICE_ID,
+        import.meta.env.VITE_TEMPLATE_ID,
+        form.current,
+        import.meta.env.VITE_PUBLIC_KEY
+      )
+      .then(
+        (result) => {
+          alert('message sent successfully...');
+          console.log(result.text);
+        },
+        (error) => {
+          console.log(error.text);
+        }
+      );
+    };
+
   return (
+    <>
     <div className="beesrani-agri">
       <img className="rectangle-69" src={landingbg} />
 
@@ -42,7 +70,7 @@ export default function BeesraniAgri () {
               Machine Learning and AI to continuously develop advanced solutions
             </span>
             <span className="beesrani-agritechnology-incorporates-machine-learning-and-ai-to-continuously-develop-advanced-solutions-as-a-result-we-increase-roi-promote-food-sustainability-goals-ensure-full-traceability-of-crops-our-products-optimize-the-yields-and-productivity-of-smallholder-farmers-therefore-increasing-the-quality-and-quantity-of-food-supply-available-for-consumption-span3">
-              . As a result we increase ROI, promote food sustainability goals,
+              . As a result we increase ROI, promote food sustainability goals &
               ensure full traceability of crops.
               <br />
               <br />
@@ -172,13 +200,14 @@ export default function BeesraniAgri () {
       </div>
 
       <div className="frame-129">
+
         <div className="frame-128">
           <div className="frame-1262">
             <div className="solution">SOLUTION</div>
 
             <div className="give-a-man-a-fish-and-feed-him-for-a-day-teach-a-man-to-fish-and-feed-him-for-a-lifetime">
-              “GIVE A MAN A FISH AND FEED HIM FOR A DAY, TEACH A MAN TO FISH AND
-              FEED HIM FOR A LIFETIME
+              “GIVE A MAN FISH AND FEED HIM FOR A DAY, TEACH HIM TO FISH AND
+              FEED HIM FOR A LIFETIME"
             </div>
 
             <div className="we-empower-farmers-we-work-with-by-giving-them-access-to-tools-and-resources-used-by-farmers-in-more-advanced-countries-we-provide-farmers-with-highest-quality-inputs-available-such-as-seeds-fertilizers-pesticides-and-fungicides-they-can-also-access-monitoring-solutions-both-on-the-ground-and-digitally-these-tools-enable-the-farmers-to-implement-proper-farming-practices-and-on-average-double-the-national-yield-of-their-crop">
@@ -361,41 +390,37 @@ export default function BeesraniAgri () {
 
       <div className="contact-us">Contact us</div>
 
-      <div className="frame-150">
+      <form ref={form} onSubmit={submitForm} className="frame-150">
         <div className="rectangle-80"></div>
 
         <div className="frame-149">
           <div className="frame-144">
             <div className="name">Name</div>
 
-            <input type='text' placeholder='Enter your name' className="rectangle-81"/>
+            <input name='name' type='text' placeholder='Enter your name' className="rectangle-81"/>
           </div>
 
           <div className="frame-145">
             <div className="email">Email</div>
 
-            <input type='text' placeholder='Enter your email' className="rectangle-81"/>
+            <input name='email' type='text' placeholder='Enter your email' className="rectangle-81"/>
           </div>
 
           <div className="frame-146">
             <div className="phone-numer">Phone number</div>
 
-            <input type='text' placeholder='Enter your phone number' className="rectangle-81"/>
+            <input name='number' type='text' placeholder='Enter your phone number' className="rectangle-81"/>
           </div>
 
           <div className="frame-147">
             <div className="message">Message</div>
 
-            <textarea type='text' placeholder='Message' className="rectangle-812"></textarea>
+            <textarea name='message' type='text' placeholder='Message' className="rectangle-812"></textarea>
           </div>
 
-          <div className="frame-148">
-            <div className="submit">Submit</div>
-          </div>
+            <input type='submit' name='submit' placeholder='Submit' className="frame-148"/>
         </div>
-      </div>
-
-
+      </form>
 
       <div className="frame-194">
         <img className="rectangle-722" src={logo} />
@@ -442,8 +467,9 @@ export default function BeesraniAgri () {
         </div>
       </div>
       <div className="_2023-beesrani-agritechnology-all-rights-reserved">
-        © 2023 Beesrani Agritechnology. All rights reserved.
+        © 2023 Beesrani. All rights reserved.
       </div>
     </div>
+    </>
   );
 };
